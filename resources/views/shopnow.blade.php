@@ -25,6 +25,8 @@
     <div class="container">
       <p class="section-subtitle"> -- Organic Products --</p>
       <h2 class="h2 section-title">All Organic Products List</h2>
+      <h2 class="h2 section-title">All Organic Products List</h2>
+
       <ul class="filter-list">
         
       <li class="nav-item" role="presentation">
